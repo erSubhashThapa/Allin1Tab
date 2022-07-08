@@ -10,7 +10,9 @@ Created by Subhash Thapa
 ## Requirements:
 #### Python 2.7+
 
-### Attached the Python Script and Windows Executable File in the Repository. 
+#### This a customizable script (Website not in use can be commented by using (#) in the script) and can be used by SOC Analysts and cybersecurity enthusiast.
+
+### Uploaded two files in the Repository are the Python Script and Windows Executable File. 
 1. If you have python Installed on your laptop/workspace, please download the script Allin1Tab-OSINT.py and double-click the file and the Program should work. 
 2. If you don't have python installed, then we recommend either download the Python and follow steps mentioned above or you can download the Windows executable file Allin1Tab-OSINT.exe and double-click and the Program should work.
 
