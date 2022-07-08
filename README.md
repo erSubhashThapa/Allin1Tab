@@ -16,6 +16,11 @@ Created by Subhash Thapa
 1. If you have python Installed on your laptop/workspace, please download the script Allin1Tab-OSINT.py and double-click the file and the Program should work. 
 2. If you don't have python installed, then we recommend either download the Python and follow steps mentioned above or you can download the Windows executable file Allin1Tab-OSINT.exe and double-click and the Program should work.
 
+		 -- IP Address can be looked from 18+ open source platform.
+		 -- URL/Domain can be looked from 18+ open source platform.
+		 -- Hash can be looked from 5+ open source platform.
+		 -- File search can be looked from 3+ open source platform.
+
 ## Snapshots 
 #### Tool UI:
 
