@@ -140,7 +140,7 @@ def startProcess():
     
     #Browsling URl
     broIP = f"https://www.browserling.com/browse/win/7/chrome/92/http%3A%2F%2F{ip}"
-    broURL = "https://www.browserling.com/browse/win/7/chrome/92/http%3A%2F%2F{url}"
+    broURL = f"https://www.browserling.com/browse/win/7/chrome/92/http%3A%2F%2F{url}"
 
     #Symantec
     SyURL = f"https://sitereview.bluecoat.com/#/lookup-result/{url}"
